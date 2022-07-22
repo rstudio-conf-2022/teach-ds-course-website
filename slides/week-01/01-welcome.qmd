@@ -1,0 +1,20 @@
+---
+title: "Welcome to Intro Data Science"
+author: "Prof. Maria Tackett"
+date: "August 29, 2022"
+footer: "[🔗 rstd.io/teach-ds-conf22](https://rstd.io/teach-ds-conf22)"
+logo: "images/logo.png"
+format: 
+  revealjs:
+    theme: solarized
+    transition: fade
+    slide-number: true
+    incremental: false 
+    chalkboard: true
+    center: true
+execute:
+  freeze: auto
+---
+
+# Slide content
+

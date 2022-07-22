@@ -1,0 +1,34 @@
+---
+title: "Schedule"
+listing:
+  - id: schedule
+    contents:
+      - weeks/week-*.qmd
+    type: table
+    fields: [title, description, subtitle]
+    field-display-names:
+      title: "Week"
+      description: "Dates"
+      subtitle: "Topic"
+    date-format: "MMMM DD, YYYY"
+    sort: [filename]
+    sort-ui: false
+    filter-ui: false
+ #tbl-colwidths: [5,20,50,25]
+editor: visual
+---
+
+## Weekly schedule
+
+::: {#schedule}
+:::
+
+## Assignments
+
+Below are assignment due dates for the semester. You can find details and assignment instructions in the relevant week on the schedule.
+
+### Homework
+
+### Labs
+
+### Exams

@@ -1,0 +1,33 @@
+[
+  {
+    "listing": "/weeks/week-02.html",
+    "items": [
+      "/slides/week-02/03-ggplot.html",
+      "/slides/week-02/04-viz-numeric-data.html",
+      "/slides/week-02/05-viz-categorical-data.html"
+    ]
+  },
+  {
+    "listing": "/weeks/week-03.html",
+    "items": [
+      "/slides/week-03/06-grammar-data-wrangle.html",
+      "/slides/week-03/07-single-data-frame.html",
+      "/slides/week-03/08-multiple-data-frames.html"
+    ]
+  },
+  {
+    "listing": "/weeks/week-01.html",
+    "items": [
+      "/slides/week-01/01-welcome.html",
+      "/slides/week-01/02-meet-toolkit.html"
+    ]
+  },
+  {
+    "listing": "/schedule.html",
+    "items": [
+      "/weeks/week-01.html",
+      "/weeks/week-02.html",
+      "/weeks/week-03.html"
+    ]
+  }
+]

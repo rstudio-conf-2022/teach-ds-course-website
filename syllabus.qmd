@@ -1,0 +1,128 @@
+---
+title: "Syllabus"
+---
+
+---
+title: Syllabus
+---
+
+## Course Learning Objectives
+
+By the end of the semester, you will...
+
+-   learn to explore, visualize, and analyze data in a reproducible and shareable manner
+-   gain experience in data wrangling and munging, exploratory data analysis, predictive modeling, and data visualization work on problems and case studies inspired by and based on real-world questions and data
+-   learn to effectively communicate results through written assignments and final project presentation
+
+## Textbooks
+
+All books are freely available online. Hardcopies are also available for purchase.
+
+|                                                                         |                          |                                   |
+|----------------|----------------------------|-----------------------------|
+| [R for Data Science](http://r4ds.had.co.nz/)                            | Grolemund, Wickham       | O'Reilly, 1st edition, 2016       |
+| [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) | Çetinkaya-Rundel, Hardin | OpenIntro Inc., 1st Edition, 2021 |
+
+## Course community
+
+### Inclusive community
+
+It is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength, and benefit. It is my intent to present materials and activities that are respectful of diversity and in alignment with [Duke's Commitment to Diversity and Inclusion](https://provost.duke.edu/initiatives/commitment-to-diversity-and-inclusion). Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
+
+Furthermore, I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities. To help accomplish this:
+
+-   If you feel like your performance in the class is being impacted by your experiences outside of class, please don't hesitate to come and talk with me. If you prefer to speak with someone outside of the course, your academic dean is an excellent resource.
+-   I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please let me or a member of the teaching team know.
+
+### Accessibility
+
+If there is any portion of the course that is not accessible to you due to challenges with technology or the course format, please let me know so we can make appropriate accommodations.
+
+The [Student Disability Access Office (SDAO)](https://access.duke.edu/students) is available to ensure that students are able to engage with their courses and related assignments. Students should be in touch with the Student Disability Access Office to [request or update accommodations](https://access.duke.edu/requests) under these circumstances.
+
+### Communication
+
+All lecture notes, assignment instructions, an up-to-date schedule, and other course materials may be found on the course website, [sta199-fa21-003.netlify.app](https://sta199-fa21-003.netlify.app/)
+
+Announcements will be emailed through Sakai Announcements periodically. Please check your email regularly to ensure you have the latest announcements for the course.
+
+## Activities & Assessment
+
+### Labs 
+
+In labs, you will apply the concepts discussed in lecture to various data analysis scenarios, with a focus on the computation. Most lab assignments will be completed in teams, and all team members are expected to contribute equally to the completion of each assignment. You are expected to use the team's Git repository on the course's GitHub page as the central platform for collaboration. Commits to this repository will be used as a metric of each team member's relative contribution for each lab, and there will be periodic peer evaluation on the team collaboration. Lab assignments will be completed using R Markdown, correspond to an appropriate GitHub repository, and submitted for grading in Gradescope.
+
+### Homework 
+
+In homework, you will apply what you've learned during lecture and lab to complete data analysis tasks. You may discuss homework assignments with other students; however, homework should be completed and submitted individually. Similar to lab assignments, homework must be typed up using R Markdown and GitHub and submitted as a PDF in Gradescope.
+
+### Exams
+
+There will be two, take-home, open-note exams. Through these exams you have the opportunity to demonstrate what you've learned in the course thus far. Each exam will include small analysis and computational tasks related to the content in the prepare, practice, and perform assignments. More details about the content and structure of the exams will be discussed during the semester.
+
+### Final Project 
+
+The purpose of the [final project](/project/) is to apply what you've learned throughout the semester to analyze an interesting data-driven research question. The project will be completed with your lab teams, and each team will present their work in video and in writing during the final exam period. More information about the project will be provided during the semester.
+
+## Grading
+
+The final course grade will be calculated as follows:
+
+<center>
+
+| Category              | Percentage |
+|-----------------------|------------|
+| Homework              | 25%        |
+| Labs                  | 15%        |
+| Final Project         | 15%        |
+| Exam 01               | 17.5%      |
+| Exam 02               | 17.5%      |
+| Prep quizzes          | 5%         |
+| Application Exercises | 2.5%       |
+| Teamwork              | 2.5%       |
+
+## Course policies
+
+### Academic honesty
+
+**TL;DR: Don't cheat!**
+
+Please abide by the following as you work on assignments in this course:
+
+-   You may discuss individual homework and lab assignments with other students; however, you may not directly share (or copy) code or write up with other students. For team assignments, you may collaborate freely within your team. You may discuss the assignment with other teams; however, you may not directly share (or copy) code or write up with another team. Unauthorized sharing (or copying) of the code or write up will be considered a violation for all students involved.
+-   You may not discuss or otherwise work with others on the exams. Unauthorized collaboration or using unauthorized materials will be considered a violation for all students involved. More details will be given closer to the exam date.
+-   **Reusing code**: Unless explicitly stated otherwise, you may make use of online resources (e.g. StackOverflow) for coding examples on assignments. If you directly use code from an outside source (or use it as inspiration), you must explicitly cite where you obtained the code. Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism.
+
+Any violations in academic honesty standards as outlined in the [Duke Community Standard](https://studentaffairs.duke.edu/conduct/about-us/duke-community-standard) and those specific to this course will automatically result in a 0 for the assignment and will be reported to the [Office of Student Conduct](https://studentaffairs.duke.edu/conduct) for further action.
+
+### Late work & extensions
+
+The due dates for assignments are there to help you keep up with the course material and to ensure the teaching team can provide feedback within a timely manner. We understand that things come up periodically that could make it difficult to submit an assignment by the deadline. Note that the lowest homework and lab assignment will be dropped to accommodate such circumstances.
+
+### Late work policy
+
+-   Homework and labs may be submitted up to 3 days late. There will be a 5% deduction for each 24-hour period the assignment is late.
+
+-   There is no late work accepted for prep quizzes or application exercises, since these are designed to help you prepare for labs and homework.
+
+-   The late work policy for exams will be provided with the exam instructions.
+
+-   The late work policy for the project will be provided with the project instructions.
+
+## Important dates
+
+-   **Aug 23:** Classes begin
+
+-   **Sep 3**: Drop/add ends
+
+-   **Oct 4-5**: Fall break
+
+-   **Nov 5**: Last day to withdraw with W
+
+-   **Nov 24-26:** Thanksgiving recess
+
+-   **Dec 3**: Classes end
+
+-   **Dec 4-7**: Reading period
+
+-   **Dec 8-13**: Final exams
