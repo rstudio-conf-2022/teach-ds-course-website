@@ -1,4 +1,4 @@
-# teach-ds-course-website
+# teach-ds-course-website - testing
 
 [**Click here**](sta199-fa21-003-syllabus.pdf) **to download a PDF copy of the syllabus.**
 
