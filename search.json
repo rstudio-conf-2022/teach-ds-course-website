@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "labs/w2-lab01.html",
+    "href": "labs/w2-lab01.html",
+    "title": "Lab 01: Hello R!",
+    "section": "",
+    "text": "This is the first lab!"
+  },
+  {
+    "objectID": "weeks/week-02.html",
+    "href": "weeks/week-02.html",
+    "title": "Week 02",
+    "section": "",
+    "text": "Assignments\n\n\n\n\n\n\nAssignment\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\nHomework\n\n\nHW 01: Pet Names\n\n\nWed, Sep 14\n\n\n\n\nLab\n\n\nLab 01: Hello R!\n\n\nFri, Sep 16\n\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings"
+  },
+  {
+    "objectID": "weeks/week-03.html",
+    "href": "weeks/week-03.html",
+    "title": "Week 03",
+    "section": "",
+    "text": "Assignments\n\n\n\n\n\n\nAssignment\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "weeks/week-01.html",
+    "href": "weeks/week-01.html",
+    "title": "Week 01",
+    "section": "",
+    "text": "Assignments\nThere are no assignments scheduled this week.\n\n\nReadings\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 2 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data"
+  },
+  {
+    "objectID": "hw/w2-hw01.html",
+    "href": "hw/w2-hw01.html",
+    "title": "HW 01: Pet Names",
+    "section": "",
+    "text": "This is the first homework assignment."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Data Science Course Website",
+    "section": "",
+    "text": "Course overview from STA 199: Introduction to Data Science at Duke University\nIntro to data science and statistical thinking. Learn to explore, visualize,and analyze data to understand natural phenomena, investigate patterns, model outcomes,and make predictions, and do so in a reproducible and shareable manner. Gain experience in data wrangling and munging, exploratory data analysis, predictive modeling, data visualization, and effectively communicating results. Work on problems and case studies inspired by and based on real-world questions and data. The course will focus on the R statistical computing language."
+  },
+  {
+    "objectID": "index.html#class-meetings",
+    "href": "index.html#class-meetings",
+    "title": "Introduction to Data Science Course Website",
+    "section": "Class meetings",
+    "text": "Class meetings\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nLecture\nRoom A\nMon & Wed 10 - 11:15am\n\n\nLab 01\nRoom B\nThu 10 - 11:15am\n\n\nLab 02\nRoom C\nThu 1:45 - 3pm\n\n\nLab 03\nRoom D\nThu 3:30 - 4:45pm"
+  },
+  {
+    "objectID": "index.html#teaching-team",
+    "href": "index.html#teaching-team",
+    "title": "Introduction to Data Science Course Website",
+    "section": "Teaching team",
+    "text": "Teaching team\n\n\n\nName\nOffice hours\nLocation\n\n\n\n\nInstructor\nTue 2 - 3pm\nOffice 123\n\n\nTeaching Assistant 1\nMon 5 - 7pm\nZoom\n\n\nTeaching Assistant 2\nFri 11am - 1pm\nZoom"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Excerpts of Fall 2021 syllabus from STA 199: Introduction to Data Science at Duke University"
+  },
+  {
+    "objectID": "syllabus.html#course-learning-objectives",
+    "href": "syllabus.html#course-learning-objectives",
+    "title": "Syllabus",
+    "section": "Course Learning Objectives",
+    "text": "Course Learning Objectives\nBy the end of the semester, you will…\n\nlearn to explore, visualize, and analyze data in a reproducible and shareable manner\ngain experience in data wrangling and munging, exploratory data analysis, predictive modeling, and data visualization work on problems and case studies inspired by and based on real-world questions and data\nlearn to effectively communicate results through written assignments and final project presentation"
+  },
+  {
+    "objectID": "syllabus.html#textbooks",
+    "href": "syllabus.html#textbooks",
+    "title": "Syllabus",
+    "section": "Textbooks",
+    "text": "Textbooks\nAll books are freely available online. Hardcopies are also available for purchase.\n\n\n\nR for Data Science\nGrolemund, Wickham\nO’Reilly, 1st edition, 2016\n\n\nIntroduction to Modern Statistics\nÇetinkaya-Rundel, Hardin\nOpenIntro Inc., 1st Edition, 2021"
+  },
+  {
+    "objectID": "syllabus.html#course-community",
+    "href": "syllabus.html#course-community",
+    "title": "Syllabus",
+    "section": "Course community",
+    "text": "Course community\n\nInclusive community\nIt is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength, and benefit. It is my intent to present materials and activities that are respectful of diversity and in alignment with Duke’s Commitment to Diversity and Inclusion. Your suggestions are encouraged and appreciated.\n\n\nAccessibility\nIf there is any portion of the course that is not accessible to you due to challenges with technology or the course format, please let me know so we can make appropriate accommodations.\nThe Student Disability Access Office (SDAO) is available to ensure that students are able to engage with their courses and related assignments. Students should be in touch with the Student Disability Access Office to request or update accommodations under these circumstances.\n\n\nCommunication\nAll lecture notes, assignment instructions, an up-to-date schedule, and other course materials may be found on the course website.\nAnnouncements will be emailed through Sakai Announcements periodically. Please check your email regularly to ensure you have the latest announcements for the course."
+  },
+  {
+    "objectID": "syllabus.html#activities-assessment",
+    "href": "syllabus.html#activities-assessment",
+    "title": "Syllabus",
+    "section": "Activities & Assessment",
+    "text": "Activities & Assessment\n\nLabs\nIn labs, you will apply the concepts discussed in lecture to various data analysis scenarios, with a focus on the computation.\n\n\nHomework\nIn homework, you will apply what you’ve learned during lecture and lab to complete data analysis tasks.\n\n\nExams\nThere will be two, take-home, open-note exams. Through these exams you have the opportunity to demonstrate what you’ve learned in the course thus far.\n\n\nFinal Project\nThe purpose of the final project is to apply what you’ve learned throughout the semester to analyze an interesting data-driven research question."
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "Grading",
+    "text": "Grading\nThe final course grade will be calculated as follows:\n\n\n\n\nCategory\nPercentage\n\n\n\n\nHomework\n30%\n\n\nLabs\n15%\n\n\nFinal Project\n15%\n\n\nExam 01\n17.5%\n\n\nExam 02\n17.5%\n\n\nIn-class exercises\n5%"
+  },
+  {
+    "objectID": "syllabus.html#course-policies",
+    "href": "syllabus.html#course-policies",
+    "title": "Syllabus",
+    "section": "Course policies",
+    "text": "Course policies\n\nAcademic honesty\nTL;DR: Don’t cheat!\nPlease abide by the following as you work on assignments in this course:\n\nYou may discuss individual homework and lab assignments with other students; however, you may not directly share (or copy) code or write up with other students. For team assignments, you may collaborate freely within your team. You may discuss the assignment with other teams; however, you may not directly share (or copy) code or write up with another team. Unauthorized sharing (or copying) of the code or write up will be considered a violation for all students involved.\nYou may not discuss or otherwise work with others on the exams.\nReusing code: Unless explicitly stated otherwise, you may make use of online resources (e.g. StackOverflow) for coding examples on assignments. If you directly use code from an outside source (or use it as inspiration), you must explicitly cite where you obtained the code. Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism.\n\n\n\nLate work & extensions\nThe due dates for assignments are there to help you keep up with the course material and to ensure the teaching team can provide feedback within a timely manner. We understand that things come up periodically that could make it difficult to submit an assignment by the deadline. Note that the lowest homework and lab assignment will be dropped to accommodate such circumstances."
+  },
+  {
+    "objectID": "syllabus.html#important-dates",
+    "href": "syllabus.html#important-dates",
+    "title": "Syllabus",
+    "section": "Important dates",
+    "text": "Important dates\n\nAug 23: Classes begin\nSep 3: Drop/add ends\nOct 4-5: Fall break\nNov 5: Last day to withdraw with W\nNov 24-26: Thanksgiving recess\nDec 3: Classes end\nDec 4-7: Reading period\nDec 8-13: Final exams"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nAug 29 - Sep 02\n\n\nWelcome to Intro Data Science\n\n\n\n\nWeek 02\n\n\nSep 05 - 09\n\n\nVisualizing Data\n\n\n\n\nWeek 03\n\n\nSep 12 - 16\n\n\nWrangling Data\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "schedule.html#assignments",
+    "href": "schedule.html#assignments",
+    "title": "Schedule",
+    "section": "Assignments",
+    "text": "Assignments\nBelow are assignment due dates for the semester. You can find details and assignment instructions in the relevant week on the schedule.\n\nHomework\nHomework will be due on Wednesdays at 11:59pm. You will have one week to complete each homework assignment.\n\n\nLabs\nLabs will be due on Fridays at 11:59pm. You will start the lab during your scheduled lab section.\n\n\nExams\nThere will be two exams on the dates:\n\nOctober 12, 9am - October 14, 11:59pm\nNovember 16, 9am - November 16: 11:59pm"
+  }
+]
