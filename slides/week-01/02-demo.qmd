@@ -1,0 +1,57 @@
+---
+title: "Meet the Toolkit"
+date: "August 31, 2022"
+footer: "[🔗 rstd.io/teach-ds-conf22](https://rstd.io/teach-ds-conf22)"
+logo: "../images/logo.png"
+format: 
+  revealjs:
+    transition: fade
+    slide-number: true
+    incremental: false 
+    chalkboard: true
+    center: true
+execute:
+  freeze: auto
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# Welcome!
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(tidyverse)
+library(palmerpenguins)
+library(viridis)
+```
+
+## Bullet point list
+
+## Incremental list
+
+## Equations
+
+## Code
+
+## Images
+
+## Columns
+
+## Panels
+
+## Themes
+
+Customize the appearance of the slides using
+
+-   Built-in [Reveal
+    theme](https://quarto.org/docs/presentations/revealjs/themes.html#using-themes)
+
+-   Modify built-in theme using
+    [Sass](https://quarto.org/docs/presentations/revealjs/themes.html#creating-themes)
+
+    -   Variant of CSS that supports variables and other features
+
+Specify the theme and/or Sass file (.scss) in the YAML

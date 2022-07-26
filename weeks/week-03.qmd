@@ -36,10 +36,6 @@ tbl-colwidths: [10,50,40]
 
 # Lectures
 
-::: {#slides}
-:::
-
 # Assignments
 
-::: {#assignments}
-:::
+# Readings 

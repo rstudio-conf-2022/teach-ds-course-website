@@ -1,0 +1,7 @@
+---
+title: "HW 02: Data visualization"
+date: "September 21, 2022"
+categories: "Homework"
+---
+
+Add instructions for assignment. 

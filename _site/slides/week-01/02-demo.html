@@ -9,9 +9,8 @@
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.0.36">
 
-  <meta name="author" content="Prof.&nbsp;Maria Tackett">
-  <meta name="dcterms.date" content="2022-08-29">
-  <title>Teach Data Science Course Website - Welcome to Intro Data Science</title>
+  <meta name="dcterms.date" content="2022-08-31">
+  <title>Teach Data Science Course Website - Meet the Toolkit</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -322,19 +321,55 @@
     <div class="slides">
 
 <section id="title-slide" class="center">
-  <h1 class="title">Welcome to Intro Data Science</h1>
-  <p class="author">Prof.&nbsp;Maria Tackett</p>
-  <p class="date">August 29, 2022</p>
+  <h1 class="title">Meet the Toolkit</h1>
+  <p class="date">August 31, 2022</p>
 </section>
 
-<section id="slide-content" class="title-slide slide level1 center">
-<h1>Slide content</h1>
+<section>
+<section id="welcome" class="title-slide slide level1 center">
+<h1>Welcome!</h1>
+<div class="cell">
 
-
-<img src="images/logo.png" class="slide-logo r-stretch"><div class="footer footer-default">
-<p><a href="https://rstd.io/teach-ds-conf22">🔗 rstd.io/teach-ds-conf22</a></p>
 </div>
 </section>
+<section id="bullet-point-list" class="slide level2 center">
+<h2>Bullet point list</h2>
+</section>
+<section id="incremental-list" class="slide level2 center">
+<h2>Incremental list</h2>
+</section>
+<section id="equations" class="slide level2 center">
+<h2>Equations</h2>
+</section>
+<section id="code" class="slide level2 center">
+<h2>Code</h2>
+</section>
+<section id="images" class="slide level2 center">
+<h2>Images</h2>
+</section>
+<section id="columns" class="slide level2 center">
+<h2>Columns</h2>
+</section>
+<section id="panels" class="slide level2 center">
+<h2>Panels</h2>
+</section>
+<section id="themes" class="slide level2 center">
+<h2>Themes</h2>
+<p>Customize the appearance of the slides using</p>
+<ul>
+<li><p>Built-in <a href="https://quarto.org/docs/presentations/revealjs/themes.html#using-themes">Reveal theme</a></p></li>
+<li><p>Modify built-in theme using <a href="https://quarto.org/docs/presentations/revealjs/themes.html#creating-themes">Sass</a></p>
+<ul>
+<li>Variant of CSS that supports variables and other features</li>
+</ul></li>
+</ul>
+<p>Specify the theme and/or Sass file (.scss) in the YAML</p>
+
+
+<img src="../images/logo.png" class="slide-logo r-stretch"><div class="footer footer-default">
+<p><a href="https://rstd.io/teach-ds-conf22">🔗 rstd.io/teach-ds-conf22</a></p>
+</div>
+</section></section>
     </div>
   </div>
 
@@ -548,6 +583,48 @@
         ]
       });
     </script>
+    
+    <script>
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+      // slide changes (different for each slide format).
+      (function () {
+        function fireSlideChanged(previousSlide, currentSlide) {
+
+          // dispatch for htmlwidgets
+          const event = window.document.createEvent("Event");
+          event.initEvent("slideenter", true, true);
+          window.document.dispatchEvent(event);
+
+          // dispatch for shiny
+          if (window.jQuery) {
+            if (previousSlide) {
+              window.jQuery(previousSlide).trigger("hidden");
+            }
+            if (currentSlide) {
+              window.jQuery(currentSlide).trigger("shown");
+            }
+          }
+        }
+
+        // hookup for reveal
+        if (window.Reveal) {
+          window.Reveal.addEventListener("slidechanged", function(event) {
+            fireSlideChanged(event.previousSlide, event.currentSlide);
+          });
+        }
+
+        // hookup for slidy
+        if (window.w3c_slidy) {
+          window.w3c_slidy.add_observer(function (slide_num) {
+            // slide_num starts at position 1
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+          });
+        }
+
+      })();
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {

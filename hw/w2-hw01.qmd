@@ -4,6 +4,5 @@ date: "September 14, 2022"
 categories: "Homework"
 ---
 
-This is the first homework assignment. 
-
+Add instructions for assignment. 
 

@@ -4,4 +4,4 @@ date: "September 16, 2022"
 categories: "Lab"
 ---
 
-This is the first lab! 
+Add instructions for assignment. 
