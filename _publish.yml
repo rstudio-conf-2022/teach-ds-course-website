@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 1905e936-fc86-479c-bc70-2725ebf0a312
+      url: 'https://quartopub.org/sites/maria/teach-data-science-course-website'
