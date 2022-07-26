@@ -1,7 +1,26 @@
 ---
-title: "teach-ds-course-website"
+title: "Introduction to Data Science Course Website"
 ---
 
-This is a Quarto website.
+## Course overview
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Course overview from STA 199: Introduction to Data Science at Duke University**
+
+Intro to data science and statistical thinking. Learn to explore, visualize,and analyze data to understand natural phenomena, investigate patterns, model outcomes,and make predictions, and do so in a reproducible and shareable manner. Gain experience in data wrangling and munging, exploratory data analysis, predictive modeling, data visualization, and effectively communicating results. Work on problems and case studies inspired by and based on real-world questions and data. The course will focus on the R statistical computing language.
+
+## Class meetings
+
+| Meeting | Location | Time                   |
+|---------|----------|------------------------|
+| Lecture | Room A   | Mon & Wed 10 - 11:15am |
+| Lab 01  | Room B   | Thu 10 - 11:15am       |
+| Lab 02  | Room C   | Thu 1:45 - 3pm         |
+| Lab 03  | Room D   | Thu 3:30 - 4:45pm      |
+
+## Teaching team 
+
+| Name                 | Office hours   | Location   |
+|----------------------|----------------|------------|
+| Instructor           | Tue 2 - 3pm    | Office 123 |
+| Teaching Assistant 1 | Mon 5 - 7pm    | Zoom       |
+| Teaching Assistant 2 | Fri 11am - 1pm | Zoom       |

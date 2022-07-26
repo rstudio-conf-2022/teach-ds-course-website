@@ -4,7 +4,9 @@
     "items": [
       "/slides/week-02/03-ggplot.html",
       "/slides/week-02/04-viz-numeric-data.html",
-      "/slides/week-02/05-viz-categorical-data.html"
+      "/slides/week-02/05-viz-categorical-data.html",
+      "/hw/w2-hw01.html",
+      "/labs/w2-lab01.html"
     ]
   },
   {
@@ -12,7 +14,9 @@
     "items": [
       "/slides/week-03/06-grammar-data-wrangle.html",
       "/slides/week-03/07-single-data-frame.html",
-      "/slides/week-03/08-multiple-data-frames.html"
+      "/slides/week-03/08-multiple-data-frames.html",
+      "/hw/w3-hw02.html",
+      "/labs/w3-lab02.html"
     ]
   },
   {

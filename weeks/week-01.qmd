@@ -17,20 +17,20 @@ listing:
     sort: [filename]
     sort-ui: false
     filter-ui: false
-  - id: assignments
-    contents:
-      - ../hw/w1-*.qmd
-      - ../labs/w1-*.qmd
-    type: table
-    fields: [categories, title, date]
-    date-format: "ddd, MMM DD"
-    field-display-names:
-      categories: "Assignment"
-      title: "Title"
-      date: "Due"
-    sort: [date]
-    sort-ui: false
-    filter-ui: false
+  # - id: assignments
+  #   contents:
+  #     - ../hw/w1-*.qmd
+  #     - ../labs/w1-*.qmd
+  #   type: table
+  #   fields: [categories, title, date]
+  #   date-format: "ddd, MMM DD"
+  #   field-display-names:
+  #     categories: "Assignment"
+  #     title: "Title"
+  #     date: "Due"
+  #   sort: [date]
+  #   sort-ui: false
+  #   filter-ui: false
 tbl-colwidths: [10,50,40]
 ---
 
@@ -41,5 +41,12 @@ tbl-colwidths: [10,50,40]
 
 # Assignments
 
-::: {#assignments}
-:::
+There are no assignments scheduled this week.
+
+# Readings 
+
+|                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------|
+| Course Syllabus                                                                                           |
+| [R for Data Science: Chapter 2 - Introduction](https://r4ds.had.co.nz/explore-intro.html)                 |
+| [Intro to Modern Data Science: Chapter 1 - Hello data](https://openintro-ims.netlify.app/data-hello.html) |
