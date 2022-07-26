@@ -2,6 +2,5 @@
 title: "teach-ds-course-website"
 ---
 
-I made a change! 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
