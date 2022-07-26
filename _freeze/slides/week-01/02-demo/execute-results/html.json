@@ -1,8 +1,10 @@
 {
-  "hash": "709b5676666b2dfabe08f845d9adbde5",
+  "hash": "567466b3be4232380841df4206ab2f0c",
   "result": {
-    "markdown": "---\ntitle: \"Meet the Toolkit\"\ndate: \"August 31, 2022\"\nfooter: \"[🔗 rstd.io/teach-ds-conf22](https://rstd.io/teach-ds-conf22)\"\nlogo: \"../images/logo.png\"\nformat: \n  revealjs:\n    transition: fade\n    slide-number: true\n    incremental: false \n    chalkboard: true\n    center: true\nexecute:\n  freeze: auto\neditor_options: \n  markdown: \n    wrap: 72\n---\n\n\n# Welcome!\n\n\n::: {.cell}\n\n:::\n\n\n## Bullet point list\n\n## Incremental list\n\n## Equations\n\n## Code\n\n## Images\n\n## Columns\n\n## Panels\n\n## Themes\n\nCustomize the appearance of the slides using\n\n-   Built-in [Reveal\n    theme](https://quarto.org/docs/presentations/revealjs/themes.html#using-themes)\n\n-   Modify built-in theme using\n    [Sass](https://quarto.org/docs/presentations/revealjs/themes.html#creating-themes)\n\n    -   Variant of CSS that supports variables and other features\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Meet the Toolkit\"\ndate: \"August 31, 2022\"\nfooter: \"[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)\"\nlogo: \"../images/logo.png\"\nformat: \n  revealjs:\n    transition: fade\n    slide-number: true\n    incremental: false \n    chalkboard: true\n    center: true\nexecute:\n  freeze: auto\neditor_options: \n  markdown: \n    wrap: 72\n---\n\n\n# Welcome!\n\n\n::: {.cell}\n\n:::\n\n\n## Bullet point list\n\n## Incremental list\n\n## Equations\n\n## Code\n\n## Images\n\n## Columns\n\n## Panels\n\n## Themes\n\nCustomize the appearance of the slides using\n\n-   Built-in [Reveal\n    theme](https://quarto.org/docs/presentations/revealjs/themes.html#using-themes)\n\n-   Modify built-in theme using\n    [Sass](https://quarto.org/docs/presentations/revealjs/themes.html#creating-themes)\n\n    -   Variant of CSS that supports variables and other features\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n",
+    "supporting": [
+      "02-demo_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -2,7 +2,7 @@
 title: "Grammar of data wrangling"
 author: "Prof. Maria Tackett"
 date: "September 12, 2022"
-footer: "[🔗 rstd.io/teach-ds-conf22](https://rstd.io/teach-ds-conf22)"
+footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)"
 logo: "images/logo.png"
 format: 
   revealjs:

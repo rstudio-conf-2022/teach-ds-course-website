@@ -123,7 +123,7 @@
     "href": "slides/week-01/01-example.html#themes",
     "title": "Welcome to Intro Data Science",
     "section": "Themes",
-    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n🔗 rstd.io/teach-ds-conf22"
+    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
   },
   {
     "objectID": "slides/week-01/02-demo.html#bullet-point-list",
@@ -179,7 +179,7 @@
     "href": "slides/week-01/02-demo.html#themes",
     "title": "Meet the Toolkit",
     "section": "Themes",
-    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n🔗 rstd.io/teach-ds-conf22"
+    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
   },
   {
     "objectID": "syllabus.html",
