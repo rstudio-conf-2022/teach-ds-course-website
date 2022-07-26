@@ -95,7 +95,7 @@ ul.task-list{list-style: none;}
     const options = {
       valueNames: ['listing-categories','listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -177,6 +177,7 @@ ul.task-list{list-style: none;}
   <ul>
   <li><a href="#lectures" id="toc-lectures" class="nav-link active" data-scroll-target="#lectures">Lectures</a></li>
   <li><a href="#assignments" id="toc-assignments" class="nav-link" data-scroll-target="#assignments">Assignments</a></li>
+  <li><a href="#readings" id="toc-readings" class="nav-link" data-scroll-target="#readings">Readings</a></li>
   </ul>
 </nav>
     </div>
@@ -213,7 +214,18 @@ ul.task-list{list-style: none;}
 
 <section id="lectures" class="level1">
 <h1>Lectures</h1>
-<div id="listing-slides" class="quarto-listing quarto-listing-container-table">
+</section>
+<section id="assignments" class="level1">
+<h1>Assignments</h1>
+</section>
+<section id="readings" class="level1">
+<h1>Readings</h1>
+
+
+
+</section>
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-slides">
 
 <table class="quarto-listing-table table">
 <thead>
@@ -227,7 +239,7 @@ Date
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-date-sort="1662955200000" data-listing-file-modified-sort="1658845916115" data-listing-reading-time-sort="0.005" data-listing-title-sort="Grammar of data wrangling" data-listing-filename-sort="06-grammar-data-wrangle.qmd">
+<tr data-index="0" data-listing-date-sort="1662955200000" data-listing-file-modified-sort="1658846775795" data-listing-reading-time-sort="0.005" data-listing-title-sort="Grammar of data wrangling" data-listing-filename-sort="06-grammar-data-wrangle.qmd">
 <td class="listing-title">
 <a href="../slides/week-03/06-grammar-data-wrangle.html" class="title">Grammar of data wrangling</a>
 </td>
@@ -235,7 +247,7 @@ Date
 Mon, Sep 12
 </td>
 </tr>
-<tr data-index="1" data-listing-date-sort="1662955200000" data-listing-file-modified-sort="1658845916115" data-listing-reading-time-sort="0.005" data-listing-title-sort="Working with a single data frame" data-listing-filename-sort="07-single-data-frame.qmd">
+<tr data-index="1" data-listing-date-sort="1662955200000" data-listing-file-modified-sort="1658846775795" data-listing-reading-time-sort="0.005" data-listing-title-sort="Working with a single data frame" data-listing-filename-sort="07-single-data-frame.qmd">
 <td class="listing-title">
 <a href="../slides/week-03/07-single-data-frame.html" class="title">Working with a single data frame</a>
 </td>
@@ -243,7 +255,7 @@ Mon, Sep 12
 Mon, Sep 12
 </td>
 </tr>
-<tr data-index="2" data-listing-date-sort="1663128000000" data-listing-file-modified-sort="1658845916115" data-listing-reading-time-sort="0.005" data-listing-title-sort="Working with multiple data frames" data-listing-filename-sort="08-multiple-data-frames.qmd">
+<tr data-index="2" data-listing-date-sort="1663128000000" data-listing-file-modified-sort="1658846775796" data-listing-reading-time-sort="0.005" data-listing-title-sort="Working with multiple data frames" data-listing-filename-sort="08-multiple-data-frames.qmd">
 <td class="listing-title">
 <a href="../slides/week-03/08-multiple-data-frames.html" class="title">Working with multiple data frames</a>
 </td>
@@ -257,11 +269,7 @@ Wed, Sep 14
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div>
-</section>
-<section id="assignments" class="level1">
-<h1>Assignments</h1>
-<div id="listing-assignments" class="quarto-listing quarto-listing-container-table">
+</div><div class="quarto-listing quarto-listing-container-table" id="listing-assignments">
 
 <table class="quarto-listing-table table">
 <thead>
@@ -278,20 +286,26 @@ Due
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1658845916045" data-listing-reading-time-sort="0" data-listing-filename-sort="w3-hw02.qmd">
+<tr data-index="0" data-categories="Homework" data-listing-date-sort="1663732800000" data-listing-file-modified-sort="1658859282165" data-listing-reading-time-sort="0.025" data-listing-title-sort="HW 02: Data visualization" data-listing-filename-sort="w3-hw02.qmd">
 <td class="listing-categories">
+Homework
 </td>
 <td class="listing-title">
+<a href="../hw/w3-hw02.html" class="title">HW 02: Data visualization</a>
 </td>
 <td class="listing-date">
+Wed, Sep 21
 </td>
 </tr>
-<tr data-index="1" data-listing-file-modified-sort="1658845916046" data-listing-reading-time-sort="0" data-listing-filename-sort="w3-lab02.qmd">
+<tr data-index="1" data-categories="Lab" data-listing-date-sort="1663905600000" data-listing-file-modified-sort="1658859320224" data-listing-reading-time-sort="0.025" data-listing-title-sort="Lab 02: Data visualization with ggplot2!" data-listing-filename-sort="w3-lab02.qmd">
 <td class="listing-categories">
+Lab
 </td>
 <td class="listing-title">
+<a href="../labs/w3-lab02.html" class="title">Lab 02: Data visualization with ggplot2!</a>
 </td>
 <td class="listing-date">
+Fri, Sep 23
 </td>
 </tr>
 </tbody>
@@ -300,13 +314,7 @@ Due
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div>
-
-
-
-</section>
-
-</main> <!-- /main -->
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
