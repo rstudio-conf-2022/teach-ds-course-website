@@ -23,11 +23,11 @@ website:
         text: Syllabus
       - href: schedule.qmd
         text: Schedule
-
+        
 format:
   html:
     theme: cosmo
-    css: styles.css
+   # css: styles.css
     toc: true
 
 
